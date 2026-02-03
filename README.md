@@ -25,7 +25,6 @@ This project was developed by **Ciril C Reji** as a DIY automation experiment us
 2. If an object is detected within a threshold (e.g., <10 cm), Arduino outputs a HIGH signal.  
 3. The transistor or MOSFET switches ON the pump.  
 4. When the object moves away, the signal goes LOW and pump stops.  
-> 💡 *Note:* The submersible pump replaces the solenoid valve used in similar designs. The control logic remains identical — only the output device changes.  
 
 ## 💻 Arduino Code
 ```cpp

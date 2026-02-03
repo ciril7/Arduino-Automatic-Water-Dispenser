@@ -16,6 +16,10 @@ This project was developed by **Ciril C Reji** as a DIY automation experiment us
 | **Breadboard / Jumper Wires** | For circuit connections |
 | **Tubing / Water Container** | For water storage and flow |
 ## 🔌 Circuit Diagram
+
+![image](https://github.com/ciril7/Arduino-Automatic-Water-Dispenser/blob/main/circuit.png)
+
+
 **Working principle:**
 1. The ultrasonic sensor continuously measures the distance to detect a glass.  
 2. If an object is detected within a threshold (e.g., <10 cm), Arduino outputs a HIGH signal.  

@@ -99,6 +99,8 @@ Use IR proximity sensor for faster detection.
 Make it IoT-enabled with ESP8266 or ESP32.
 
 
+images
+[image](https://github.com/ciril7/Arduino-Automatic-Water-Dispenser/blob/main/IMG_8737.jpeg)
 
 
 

@@ -101,8 +101,7 @@ Make it IoT-enabled with ESP8266 or ESP32.
 
 images
 
-![image](https://github.com/ciril7/Arduino-Automatic-Water-Dispenser/blob/main/IMG_8737.jpeg)
-
+![image](https://github.com/ciril7/Arduino-Automatic-Water-Dispenser/blob/689a415bef085bed45ef0ee07d178a470b6ee8c3/IMG_8737.jpeg)
 
 
 📄 License

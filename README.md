@@ -61,7 +61,7 @@ void loop() {
   }
   delay(200);
 }
-
+```
 
 🧩 Working Demo
 
@@ -101,7 +101,7 @@ Make it IoT-enabled with ESP8266 or ESP32.
 
 images
 
-![image](https://github.com/ciril7/Arduino-Automatic-Water-Dispenser/blob/main/IMG_8740.png)
+![image](https://github.com/ciril7/Arduino-Automatic-Water-Dispenser/blob/main/IMG_8737.jpeg)
 
 
 📄 License
